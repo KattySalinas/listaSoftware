@@ -18,7 +18,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 a,a:hover {
-	color:#92DD03 ;
+	color:#36AB2B ;
 	text-decoration: none;
 }
 img {max-width: 100%;}
@@ -81,7 +81,7 @@ img {max-width: 100%;}
 .navbar.navbar-inverse.navbar-static-top {
 	margin:0px auto;
 	background:none;
-	color:#92DD03;
+	color:#36AB2B;
 	border:none;
 	font-family:'Open Sans',sans-serif;
 	font-size:14px;
@@ -109,11 +109,11 @@ img {max-width: 100%;}
 	display:none;
 }
 .isFixed .navbar-inverse .navbar-nav>.active>a,.isFixed .navbar-inverse .navbar-nav>.active>a:focus {
-	background:#92DD03 ;
+	background:#36AB2B ;
 	color:#fff;
 }
 .isFixed .navbar.navbar-inverse.navbar-static-top a:hover {
-	background:#92DD03 ;
+	background:#36AB2B ;
 	color:#fff;
 }
 .isFixed .navbar.navbar-inverse.navbar-static-top a {
@@ -170,7 +170,7 @@ header {
 	background-image:url(../img/pattern.png);
 	background-repeat: repeat;
 }
-/* --- Heading --- */
+/* --- Heading 92DD03 --- */
 .heading {
 	padding-bottom:15px;
 	text-align:center;
@@ -187,7 +187,7 @@ header {
 	padding:5px;
 }
 .heading h2::first-letter {
-	color:#92DD03 ;
+	color:#36AB2B ; 
 }
 .heading h3 {
 	font-size:16px;
@@ -370,7 +370,7 @@ img#site-title {
 	margin:0 0 20px 0;
 	font-size:19px;
 	padding-bottom:10px;
-	color:#92DD03 ;
+	color:#36AB2B ;
 	border-bottom: 4px double #eee;
 }
 
@@ -628,7 +628,7 @@ span.nav-close:before {
 
 .hi-icon-effect i.fa:hover {
 	background:#fff;
-	color: #92DD03;
+	color: #36AB2B;
 	-webkit-transition: color 300ms, background-color 300ms;
   -moz-transition: color 300ms, background-color 300ms;
   -o-transition:  color 300ms, background-color 300ms;
@@ -641,7 +641,7 @@ span.nav-close:before {
 	margin-bottom:30px;
 	color:#fff;
 	padding:50px;
-	background:#92DD03;
+	background:#36AB2B;
 	border-radius:50%;
 }
 
@@ -679,7 +679,7 @@ span.nav-close:before {
 }
 
 .contact-info i {
-	color:#92DD03;	
+	color:#36AB2B;	
 }
 
 
@@ -750,7 +750,7 @@ textarea.contact {
 	border-radius:3px;
 }
 .contact.submit:hover {
-	background:#92DD03 ;
+	background:#36AB2B ;
 }
 .done {
 	display:none;
@@ -770,7 +770,7 @@ textarea.contact {
 }
 /* --- Footer --- */
 .footer {
-	background:#92DD03 ;
+	background:#36AB2B ;
 	margin-top:120px;
 	position:relative;
 	margin-right:-15px;
@@ -832,7 +832,7 @@ textarea.contact {
 	border-radius:50%;
 }
 .gototop i {
-	color:#92DD03 ;
+	color:#36AB2B ;
 	line-height:70px;
 }
 .footer a,.footer a:hover {
@@ -857,11 +857,11 @@ blockquote:before {
 	position:absolute;
 	left:10px;
 	top:-30px;
-	color:#92DD03 ;
+	color:#36AB2B ;
 	font-family:Georgia;
 }
 blockquote cite {
-	color:#92DD03 ;
+	color:#36AB2B ;
 	font-size:14px;
 	display:block;
 	margin-top:5px;
